@@ -10,4 +10,4 @@ There are many useful cryptosystems for encrypting, decrypting, signing, or auth
   * RSA PKC
 
 - Homomorphic Encryption
-  * Goldwasser-Micali PKC
+  * Goldwasser-Micali
